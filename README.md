@@ -55,5 +55,9 @@ This project analyzes a Kaggle credit score dataset to predict each customer’s
 
 ---
 
-## Repository structure (suggested)
+## Files
+- `code_Credit-Score.R`: R script containing data preprocessing, feature engineering,
+  model estimation and evaluation
+- `report_Credit-Score.pdf`: Detailed explanation of the methodology and results
+- `train.xlsx`: Training data
 
