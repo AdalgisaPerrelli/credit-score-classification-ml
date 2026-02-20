@@ -1,6 +1,6 @@
 # Credit Score Classification with Machine Learning
 
-This project analyzes a Kaggle credit score dataset to predict each customer’s credit score class (`Poor`, `Standard`, `Good`) using machine learning methods for clustering and classification.
+This project analyzes a Kaggle credit score dataset to predict each customer’s credit score class (`Poor`, `Standard`, `Good`) using machine learning methods for clustering and classification. The work was carried out as a group project within a Machine Learning course.
 
 ---
 
